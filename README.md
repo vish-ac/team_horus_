@@ -1,2 +1,3 @@
 # team_horus_
-a website for team horus 
+A website of team horus.
+We are the solar vehicle team of NMIT.
